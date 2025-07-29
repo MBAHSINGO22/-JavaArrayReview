@@ -1,7 +1,7 @@
-<h1 align="center">📚 JavaArrayReview</h1>
+<h1 align="center">📚 Java Array Review</h1>
 <p align="center">
   <b>Review Dasar Array dan Static di Java</b><br>
-  <sub>Latihan memahami inisialisasi array, indexing, dan penggunaan kata kunci <code>static</code></sub>
+  <sub>Inisialisasi array, indexing, dan penggunaan kata kunci <code>static</code></sub>
 </p>
 
 <div align="center">
@@ -16,7 +16,7 @@
 
 ## 📖 Deskripsi Proyek
 
-**JavaArrayReview** adalah repositori latihan untuk memahami konsep dasar **array** dan **variabel static** di Java.
+**JavaArrayReview** adalah latihan untuk memahami konsep dasar **array** dan **variabel static** di Java.
 Berisi dua program:
 
 - **coba1.java** – Inisialisasi array integer dengan nilai default (0).
@@ -29,8 +29,7 @@ Berisi dua program:
 ```
 JavaArrayReview/
 ├── coba1.java        # Program array default dengan nilai 0
-├── coba2.java        # Program array dengan nilai statis terisi
-└── README.md         # Dokumentasi proyek
+└── coba2.java        # Program array dengan nilai statis terisi
 ```
 
 ---
@@ -39,23 +38,7 @@ JavaArrayReview/
 
 - Java 17+
 - IDE atau terminal berbasis Java
-
----
-
-## 🚀 Cara Menjalankan
-
-1️⃣ **Kompilasi file Java**
-```bash
-javac coba1.java
-java coba1
-```
-
-2️⃣ **Kompilasi program kedua**
-```bash
-javac coba2.java
-java coba2
-```
-
+  
 ---
 
 ## 📌 Contoh Output
